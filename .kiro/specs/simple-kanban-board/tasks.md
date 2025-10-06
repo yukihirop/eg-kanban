@@ -2,7 +2,7 @@
 
 ## タスク一覧
 
-- [ ] 1. プロジェクト基盤のセットアップ
+- [x] 1. プロジェクト基盤のセットアップ
   - Vite + React + TypeScript プロジェクトを初期化
   - 必要な依存関係をインストール（@dnd-kit, zustand, tailwindcss等）
   - TypeScript設定を構成（strictモード有効化）
