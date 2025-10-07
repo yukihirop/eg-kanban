@@ -64,6 +64,7 @@ Managed by `/kiro:steering` command. Updates here reflect command changes.
   Mode: Always|Conditional|Manual
   Pattern: File patterns for Conditional mode
 -->
+- `testing.md`: Conditional - `**/*.{test,spec}.{ts,tsx,js,jsx}` - Test organization, naming conventions, and best practices
 
 ### Inclusion Modes
 - **Always**: Loaded in every interaction (default)
